@@ -17,7 +17,7 @@ Yêu cầu công việc
 -   RDBMS (MySQL)
 -   Đã làm việc với HTML, CSS, Javascript
 
-ƯU TIÊN
+Ưu tiên
 -----------------
 
 -   Có kinh nghiệm về tối ưu hóa SQL
@@ -26,3 +26,8 @@ Mức lương và chính sách đãi ngộ khác
 -----------------
 
 - Thỏa thuận khi phỏng vấn
+
+Thông tin người liên hệ
+-----------------
+- Anh Minh - SĐT 094 6688 636
+- Email: [support@atomlab.tech](mailto:support@atomlab.tech)

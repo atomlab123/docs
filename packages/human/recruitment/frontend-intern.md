@@ -20,3 +20,8 @@ Mức lương và chính sách đãi ngộ khác
 -----------------
 
 - Thỏa thuận khi phỏng vấn
+
+Thông tin người liên hệ
+-----------------
+- Anh Minh - SĐT 094 6688 636
+- Email: [support@atomlab.tech](mailto:support@atomlab.tech)
