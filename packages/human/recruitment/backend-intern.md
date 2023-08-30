@@ -20,7 +20,7 @@ Yêu cầu công việc
 Ưu tiên
 -----------------
 
--   Có kinh nghiệm về tối ưu hóa SQL
+- Có kinh nghiệm về tối ưu hóa SQL
 
 Mức lương và chính sách đãi ngộ khác
 -----------------
