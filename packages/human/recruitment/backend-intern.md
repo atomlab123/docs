@@ -1,4 +1,4 @@
-# Backend - JAVA Developer
+# Backend - JAVA Intern 
 
 Mô tả công việc
 ---------------
@@ -12,15 +12,11 @@ Atomlab đang tìm kiếm các anh em developer Fullstack đủ tiêu chuẩn th
 Yêu cầu công việc
 -----------------
 
--   Có ít nhất 3 năm kinh nghiệm về JAVA (Ưu tiên kinh nghiệm cao)
 -   Có kinh nghiệm phát triển ứng dụng web
 -   Có kinh nghiệm lập trình Java
--   Phát triển dựa trên Spring, Spring Boot F/W
 -   Phát triển API (REST API)
 -   RDBMS (MySQL)
--   Có kinh nghiệm làm JS, SCSS, ReactJs
--   Git, Jira, Confluence
--   Hiểu và áp dụng CI/CD
+-   Có kinh nghiệm làm JS, SCSS
 
 ƯU TIÊN
 

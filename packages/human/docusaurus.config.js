@@ -75,11 +75,11 @@ const config = {
             label: 'Tuyển dụng',
             activeBaseRegex: `/recruitment/`,
           },
-          // {
-          //   to: '/blog',
-          //   label: 'Blog',
-          //   position: 'left'
-          // },
+          {
+            to: '/blog',
+            label: 'About Us',
+            position: 'left'
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
