@@ -3,24 +3,22 @@
 Mô tả công việc
 ---------------
 
-Atomlab đang tìm kiếm các anh em developer Fullstack đủ tiêu chuẩn tham gia vào nhóm. Bạn sẽ phát triển trong việc phát triển ứng dụng web :
--   Tham gia dự án của công ty giao
--   Đảm bảo hiệu suất, chất lượng và khả năng đáp ứng tốt nhất có thể của các ứng dụng ở phía back-end
--   Luôn cập nhật các công nghệ mới nổi
+-   Tham gia phân tích yêu cầu và xây dựng ý tưởng, giải pháp cho sản phẩm
+-   Hợp tác chặt chẽ với các đối tác để phát triển và triển khai dự án một cách tốt nhất
+-   Đảm bảo hiệu suất, chất lượng và tính ổn định tối đa cho các ứng dụng phía back-end
+-   Nắm bắt và áp dụng các công nghệ mới nhất trong lĩnh vực của bạn
 -   Trao đổi chi tiết khi phỏng vấn
 
 Yêu cầu công việc
 -----------------
 
--   Có ít nhất 3 năm kinh nghiệm về JAVA (Ưu tiên kinh nghiệm cao)
--   Có kinh nghiệm phát triển ứng dụng web
--   Có kinh nghiệm lập trình Java
--   Phát triển dựa trên Spring, Spring Boot F/W
--   Phát triển API (REST API)
--   RDBMS (MySQL)
--   Có kinh nghiệm làm JS, SCSS, ReactJs
--   Git, Jira, Confluence
--   Hiểu và áp dụng CI/CD
+-   Tối thiểu 3 năm kinh nghiệm làm việc với ngôn ngữ JAVA. Kinh nghiệm cao sẽ được ưu tiên
+-   Có kiến thức và kinh nghiệm trong việc phát triển ứng dụng web
+-   Thành thạo trong lập trình Java và đã có kinh nghiệm làm việc với Spring, Spring Boot Framework
+-   Có khả năng phát triển các API (REST API) đáp ứng tiêu chuẩn cao
+-   Sử dụng thành thạo các công cụ như RDBMS (MySQL), JS, SCSS, và ReactJs
+-   Thành thạo việc làm việc với Git, Jira, và Confluence
+-   Hiểu biết và có kinh nghiệm áp dụng Continuous Integration và Continuous Deployment (CI/CD).
 
 Ưu tiên
 -----------------
@@ -30,10 +28,11 @@ Yêu cầu công việc
 Mức lương và chính sách đãi ngộ khác
 -----------------
 
-- Thỏa thuận khi phỏng vấn
+-   Môi trường làm việc chuyên nghiệp và thúc đẩy sự phát triển cá nhân
+-   Mức lương thỏa thuận khi phỏng vấn
 
 Thông tin người liên hệ
 -----------------
-- Công ty AtomLab - 34 Lê Trọng Tấn, Thanh Xuân, Hà Nội
-- Anh Khải - 033 7486 327
-- Email: [hr@atomlab.tech](mailto:hr@atomlab.tech)
+-   Công ty AtomLab - 34 Lê Trọng Tấn, Thanh Xuân, Hà Nội
+-   Anh Khải - 033 7486 327
+-   Email: [hr@atomlab.tech](mailto:hr@atomlab.tech)
