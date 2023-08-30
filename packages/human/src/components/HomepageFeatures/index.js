@@ -17,7 +17,7 @@ const FeatureList = [
   {
     title: 'About Us',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    link: '/blog/',
+    link: 'https://atomlab.tech/',
     description: (
       <>
         Thông tin về công ty

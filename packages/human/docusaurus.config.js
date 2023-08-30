@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -57,10 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'AtomLab',
         logo: {
           alt: 'AtomLab Logo',
-          src: 'img/logo.svg',
+          src: 'https://atomlab.tech/wp-content/uploads/2022/11/atom-1-1.png',
         },
         items: [
           // {
@@ -75,11 +74,11 @@ const config = {
             label: 'Tuyển dụng',
             activeBaseRegex: `/recruitment/`,
           },
-          {
-            to: '/blog',
-            label: 'About Us',
-            position: 'left'
-          },
+          // {
+          //   to: '/blog',
+          //   label: 'About Us',
+          //   position: 'left'
+          // },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
