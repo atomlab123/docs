@@ -23,5 +23,6 @@ Mức lương và chính sách đãi ngộ khác
 
 Thông tin người liên hệ
 -----------------
-- Anh Minh - SĐT 094 6688 636
-- Email: [support@atomlab.tech](mailto:support@atomlab.tech)
+- Công ty AtomLab - 34 Lê Trọng Tấn, Thanh Xuân, Hà Nội
+- Anh Khải - 033 7486 327
+- Email: [hr@atomlab.tech](mailto:hr@atomlab.tech)
