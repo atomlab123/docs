@@ -23,5 +23,11 @@ Yêu cầu công việc
 -   Hiểu và áp dụng CI/CD
 
 ƯU TIÊN
+-----------------
 
 -   Có kinh nghiệm về tối ưu hóa SQL
+
+Mức lương và chính sách đãi ngộ khác
+-----------------
+
+- Thỏa thuận khi phỏng vấn

@@ -21,3 +21,8 @@ Yêu cầu công việc
 - Có kinh nghiệm với RDBMS (ví dụ: Postgres, Mysql)
 - Có kinh nghiệm trong việc xây dựng ứng dụng web có khả năng mở rộng và không ngại tham gia vào cả phát triển frontend và backend
 - Cam kết và động viên cho chất lượng, sự xuất sắc kỹ thuật và kết quả
+
+Mức lương và chính sách đãi ngộ khác
+-----------------
+
+- Thỏa thuận khi phỏng vấn

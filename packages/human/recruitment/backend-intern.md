@@ -18,5 +18,11 @@ Yêu cầu công việc
 -   Đã làm việc với HTML, CSS, Javascript
 
 ƯU TIÊN
+-----------------
 
 -   Có kinh nghiệm về tối ưu hóa SQL
+
+Mức lương và chính sách đãi ngộ khác
+-----------------
+
+- Thỏa thuận khi phỏng vấn
