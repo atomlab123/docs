@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "clean": "lerna clean",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "lint": "lerna run lint",
+    "prepublishOnly": "lerna run prepublishOnly",
+    "prepare": "lerna run prepare",
+    "version": "lerna version",
+    "publish": "lerna publish",
+    "document": "lerna run --parallel --scope human --stream start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.1"
+  }
+}
