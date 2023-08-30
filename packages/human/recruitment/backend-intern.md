@@ -12,11 +12,10 @@ Atomlab đang tìm kiếm các anh em developer Fullstack đủ tiêu chuẩn th
 Yêu cầu công việc
 -----------------
 
--   Có kinh nghiệm phát triển ứng dụng web
--   Có kinh nghiệm lập trình Java
+-   Có các sản phẩm hoặc dự án đã hoàn thành
 -   Phát triển API (REST API)
 -   RDBMS (MySQL)
--   Có kinh nghiệm làm JS, SCSS
+-   Đã làm việc với HTML, CSS, Javascript
 
 ƯU TIÊN
 
